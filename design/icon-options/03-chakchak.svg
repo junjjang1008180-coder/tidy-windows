@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+ <linearGradient id="bg" x1="66" y1="30" x2="950" y2="970" gradientUnits="userSpaceOnUse"><stop stop-color="#FFCF91"/><stop offset=".52" stop-color="#F28B79"/><stop offset="1" stop-color="#DE647E"/></linearGradient>
+ <linearGradient id="tile" x1="210" y1="222" x2="818" y2="810" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFF7F0"/></linearGradient>
+ <filter id="shadow" x="110" y="120" width="820" height="810" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+<rect x="32" y="32" width="960" height="960" rx="230" fill="url(#bg)"/>
+<circle cx="770" cy="232" r="157" fill="#FFFFFF" fill-opacity=".15"/><circle cx="228" cy="797" r="138" fill="#FFE9A7" fill-opacity=".17"/>
+<rect x="166" y="163" width="700" height="710" rx="126" fill="#722D53" fill-opacity=".27" filter="url(#shadow)"/>
+<rect x="187" y="184" width="650" height="656" rx="112" fill="url(#tile)"/>
+<rect x="260" y="267" width="215" height="215" rx="61" fill="#725DE0"/>
+<rect x="304" y="310" width="127" height="127" rx="38" fill="#FFFFFF" fill-opacity=".95"/><circle cx="368" cy="352" r="20" fill="#725DE0"/><path d="M330 415c6-25 19-38 38-38s32 13 38 38" fill="none" stroke="#725DE0" stroke-linecap="round" stroke-width="14"/>
+<rect x="544" y="267" width="215" height="215" rx="61" fill="#64CBA8"/>
+<path d="M590 344c0-14 11-25 25-25h40l22 22h40c14 0 25 11 25 25v62c0 14-11 25-25 25H615c-14 0-25-11-25-25v-84Z" fill="#FFFFFF"/>
+<rect x="260" y="534" width="215" height="215" rx="61" fill="#F3C75E"/>
+<path d="M315 640h105m-28-29 29 29-29 29" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="19"/>
+<rect x="544" y="534" width="215" height="215" rx="61" fill="#F28B79"/>
+<path d="M598 641h105m-77-29-29 29 29 29" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="19"/>
+<path d="m779 505 14 38 38 14-38 14-14 38-14-38-38-14 38-14 14-38Z" fill="#F8D875"/>
+</svg>

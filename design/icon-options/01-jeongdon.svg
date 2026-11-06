@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+ <linearGradient id="bg" x1="90" y1="50" x2="910" y2="970" gradientUnits="userSpaceOnUse"><stop stop-color="#292750"/><stop offset="1" stop-color="#5148A8"/></linearGradient>
+ <linearGradient id="card" x1="220" y1="220" x2="810" y2="810" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFDF8"/><stop offset="1" stop-color="#F1EEFF"/></linearGradient>
+ <filter id="shadow" x="120" y="130" width="790" height="790" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+<rect x="32" y="32" width="960" height="960" rx="230" fill="url(#bg)"/>
+<circle cx="783" cy="230" r="155" fill="#FFFFFF" fill-opacity=".08"/><circle cx="229" cy="790" r="140" fill="#9EF2D2" fill-opacity=".09"/>
+<rect x="162" y="165" width="700" height="700" rx="118" fill="#11132F" fill-opacity=".36" filter="url(#shadow)"/>
+<rect x="190" y="190" width="644" height="644" rx="105" fill="url(#card)"/>
+<circle cx="270" cy="273" r="18" fill="#F18A87"/><circle cx="326" cy="273" r="18" fill="#EFC35F"/><circle cx="382" cy="273" r="18" fill="#62C7A9"/>
+<rect x="274" y="375" width="205" height="180" rx="45" fill="#6E79E9"/><rect x="310" y="410" width="58" height="58" rx="19" fill="#FFFFFF"/><rect x="385" y="410" width="58" height="58" rx="19" fill="#FFFFFF"/><rect x="310" y="485" width="58" height="34" rx="15" fill="#FFFFFF"/><rect x="385" y="485" width="58" height="34" rx="15" fill="#FFFFFF"/>
+<rect x="545" y="375" width="205" height="180" rx="45" fill="#F2B85A"/><path d="M584 438c0-13 11-24 24-24h38l20 20h39c13 0 24 11 24 24v51c0 13-11 24-24 24h-97c-13 0-24-11-24-24v-71Z" fill="#FFFFFF"/>
+<rect x="274" y="599" width="205" height="135" rx="42" fill="#DCEBE8"/><path d="M314 667h123" stroke="#399D8D" stroke-linecap="round" stroke-width="17"/><path d="m402 632 36 35-36 35" fill="none" stroke="#399D8D" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+<rect x="545" y="599" width="205" height="135" rx="42" fill="#F8D9D4"/><path d="M585 667h123" stroke="#DC7771" stroke-linecap="round" stroke-width="17"/><path d="m620 632-36 35 36 35" fill="none" stroke="#DC7771" stroke-linecap="round" stroke-linejoin="round" stroke-width="17"/>
+<path d="m780 327 13 37 37 13-37 13-13 37-13-37-37-13 37-13 13-37Z" fill="#FFE891"/>
+</svg>

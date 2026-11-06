@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><linearGradient id="bg" x1="72" y1="25" x2="930" y2="985" gradientUnits="userSpaceOnUse"><stop stop-color="#1F354B"/><stop offset="1" stop-color="#101D2B"/></linearGradient><linearGradient id="screen" x1="180" y1="190" x2="840" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#F7FBF8"/><stop offset="1" stop-color="#DDECE8"/></linearGradient><filter id="sh" x="80" y="100" width="880" height="850" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="28"/></filter></defs>
+<rect x="32" y="32" width="960" height="960" rx="232" fill="url(#bg)"/><circle cx="802" cy="210" r="154" fill="#B6EBDD" fill-opacity=".1"/>
+<rect x="146" y="151" width="742" height="680" rx="105" fill="#07121D" fill-opacity=".5" filter="url(#sh)"/><rect x="174" y="173" width="676" height="604" rx="91" fill="url(#screen)"/>
+<path d="M265 173h494a91 91 0 0 1 91 91v52H174v-52a91 91 0 0 1 91-91Z" fill="#E7F0ED"/><circle cx="245" cy="250" r="15" fill="#E7837C"/><circle cx="294" cy="250" r="15" fill="#EFC665"/><circle cx="343" cy="250" r="15" fill="#65C5A9"/>
+<rect x="240" y="394" width="162" height="162" rx="43" fill="#675DDB"/><rect x="276" y="430" width="90" height="90" rx="25" fill="#FFFFFF"/><path d="M295 475h52m-18-18 19 18-19 18" fill="none" stroke="#675DDB" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+<rect x="431" y="394" width="162" height="162" rx="43" fill="#55BBA4"/><path d="M466 453c0-11 9-20 20-20h32l18 18h34c11 0 20 9 20 20v49c0 11-9 20-20 20h-84c-11 0-20-9-20-20v-67Z" fill="#FFFFFF"/>
+<rect x="622" y="394" width="162" height="162" rx="43" fill="#F0B65F"/><circle cx="703" cy="475" r="47" fill="#FFF9EB"/><path d="M703 445v60m-26-31h52" stroke="#E8A84B" stroke-linecap="round" stroke-width="11"/>
+<path d="M429 777v59h166v-59" fill="#DDECE8"/><path d="M358 845h308" stroke="#DDECE8" stroke-linecap="round" stroke-width="32"/><path d="m779 608 12 34 34 12-34 12-12 34-12-34-34-12 34-12 12-34Z" fill="#FFE58F"/>
+</svg>

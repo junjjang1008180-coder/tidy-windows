@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="512" y1="100" x2="512" y2="924" gradientUnits="userSpaceOnUse"><stop stop-color="#E4EDD8"/><stop offset="1" stop-color="#CCDBBC"/></linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#34433A"/><stop offset="1" stop-color="#26322B"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8379E6"/><stop offset="1" stop-color="#6A61D0"/></linearGradient>
+    <filter id="shadow" x="60" y="80" width="904" height="904" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <rect x="100" y="112" width="824" height="824" rx="185" fill="#2D3930" fill-opacity=".22" filter="url(#shadow)"/>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#bg)"/>
+  <rect x="101" y="101" width="822" height="822" rx="184" fill="none" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="454.3" y="231.8" width="115.4" height="115.4" rx="33.0" fill="url(#tile)"/><rect x="454.3" y="380.2" width="115.4" height="115.4" rx="33.0" fill="url(#tile)"/><rect x="306.0" y="380.2" width="115.4" height="115.4" rx="33.0" fill="url(#tile)"/><rect x="454.3" y="528.5" width="115.4" height="115.4" rx="33.0" fill="url(#tile)"/><rect x="454.3" y="676.8" width="115.4" height="115.4" rx="33.0" fill="url(#tile)"/><rect x="602.6" y="676.8" width="115.4" height="115.4" rx="33.0" fill="url(#tile)"/>
+  <rect x="602.6" y="380.2" width="115.4" height="115.4" rx="33.0" fill="url(#accent)"/>
+</svg>

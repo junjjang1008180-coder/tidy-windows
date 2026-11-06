@@ -1,0 +1,1 @@
+{"identifier":"default","description":"Dialog and local app access","windows":["main"],"permissions":["core:default","dialog:allow-open"]}
